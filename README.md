@@ -32,34 +32,11 @@
 
 
 # Część 1 - DML (Data Manipulation Language)
+* [prezentacja 1](https://bitbucket.org/pabloo99/sql_databases/src/master/1/prezentacja%201.pdf)
+* [prezentacja 2](https://bitbucket.org/pabloo99/sql_databases/src/master/1/prezentacja%202.pdf)
 
-	- [prezentacja 1](https://bitbucket.org/pabloo99/sql_databases/src/master/1/prezentacja%201.pdf)
-	- [prezentacja 2](https://bitbucket.org/pabloo99/sql_databases/src/master/1/prezentacja%202.pdf)
-	
-	- [zestaw 1](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%201.pdf)		
-	- [zestaw 2](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%202.pdf)
-	- [zestaw 3](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%203.pdf)		
-	- [zestaw 4](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%204.pdf)
-
-	- [prezentacja 3](https://bitbucket.org/pabloo99/sql_databases/src/master/2/prezentacja%203.pdf)
-	
-	- [zestaw 5](https://bitbucket.org/pabloo99/sql_databases/src/master/2/zestaw%205.pdf)		
-	- [zestaw 6](https://bitbucket.org/pabloo99/sql_databases/src/master/2/zestaw%206.pdf)
-	
-# Część 2 - DDL (Data Definition Language)
-
-	- [prezentacja 4](https://bitbucket.org/pabloo99/sql_databases/src/master/2/prezentacja%204.pdf)
-
-	- [zestaw 7](https://bitbucket.org/pabloo99/sql_databases/src/master/2/zestaw%207.pdf)		
-	- [zestaw 8](https://bitbucket.org/pabloo99/sql_databases/src/master/2/zestaw%208.pdf)
-	- [zestaw 9](https://bitbucket.org/pabloo99/sql_databases/src/master/2/zestaw%209.pdf)
-
-# Część 3 - transakcje, procedury, triggery
-
-	- [prezentacja 5](https://bitbucket.org/pabloo99/sql_databases/src/master/3/prezentacja%205.pdf)
-	
-	- [zadanie](https://bitbucket.org/pabloo99/sql_databases/src/master/3/zadanie.pdf)
-	
-	- [zestaw 10](https://bitbucket.org/pabloo99/sql_databases/src/master/3/zestaw%2010.pdf)	
-
+* [zestaw 1](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%201.pdf)		
+* [zestaw 2](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%202.pdf)
+* [zestaw 3](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%203.pdf)		
+* [zestaw 4](https://bitbucket.org/pabloo99/sql_databases/src/master/1/zestaw%204.pdf)
 	
